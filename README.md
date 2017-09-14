@@ -1,2 +1,2 @@
 # programming-scala
-Programming Scala
+Programming Scala.
